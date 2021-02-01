@@ -1,0 +1,37 @@
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\bin\Debug\proj.exe
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\bin\Debug\proj.pdb
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Form1.resources
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Properties.Resources.resources
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.csproj.GenerateResource.Cache
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.exe
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.pdb
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Shows_Info.resources
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Search_Admin_Election.resources
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Master_Detail.resources
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Insert_Update_Delete_Disconnected.resources
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.csprojResolveAssemblyReference.cache
+c:\users\amal\documents\visual studio 2010\Projects\proj\proj\obj\x86\Debug\proj.VOTING.resources
+C:\Users\AmaL\Documents\Visual Studio 2010\Projects\proj\proj\obj\x86\Debug\proj.crystal.resources
+C:\Users\AmaL\Documents\Visual Studio 2010\Projects\proj\proj\obj\x86\Debug\proj.GUI.resources
+C:\Users\AmaL\Documents\Visual Studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Candidate_Participate.resources
+C:\Users\AmaL\Documents\Visual Studio 2010\Projects\proj\proj\obj\x86\Debug\proj.Result.resources
+C:\Users\elamir\Desktop\proj-1\proj\obj\x86\Debug\proj.exe
+C:\Users\elamir\Desktop\proj-1\proj\obj\x86\Debug\proj.pdb
+C:\Users\elamir\Desktop\Database-E-Voting-System\proj\obj\x86\Debug\proj.exe
+C:\Users\elamir\Desktop\Database-E-Voting-System\proj\obj\x86\Debug\proj.pdb
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.csprojAssemblyReference.cache
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Candidate_Participate.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.crystal.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Form1.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.GUI.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Insert_Update_Delete_Disconnected.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Master_Detail.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Result.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Search_Admin_Election.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Properties.Resources.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.Shows_Info.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.VOTING.resources
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.csproj.GenerateResource.cache
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.csproj.CoreCompileInputs.cache
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.exe
+E:\Projects\Database-E-Voting-System\proj\obj\x86\Debug\proj.pdb
